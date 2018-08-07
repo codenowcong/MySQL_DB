@@ -12,7 +12,7 @@ To use MySQL Workbench to create a database for products that would be sold, sim
 
 ## Example Below
 
-Please click to view an example of how it should work
+Please click on the img below to view an example of how it should work. Also be sure to select 1080p in the video for better quality
 
 ### **bamazonCustomer.js**
 To run: input **`node bamazonCustomer.js`** in bash/terminal while in the directory.
